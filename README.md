@@ -29,12 +29,11 @@ Beskriv följande kommandon (vad de gör, hur de fungerar etcetera):
 10. git fetch
 11. git log
 
-   Hur går vi tillväga för att ignorera visa filer eller kataloger att indexeras med Git?
+*Hur går vi tillväga för att ignorera visa filer eller kataloger att indexeras med Git?*
 
 ### 3: Webbtjänst för versionshantering
 Skapa ett konto på någon av servrarna Github eller Bitbucket. Gratis-konton räcker utmärkt för uppgiften. 
 Skapa ett nytt remote repository och projekt på Github eller Bitbucket, antingen tomt (som bara består av en README.md-fil) eller genom att klona ett existerande projekt. 
 Skapa README.md-filen med markdown och ge en kort beskrivning av uppgiften/repositoriet (formatera med överskrifter, listor och så vidare). 
 
-   Vilket kommando behöver jag använda i terminalen/kommandoprompten för att klona ditt repository till min dator?
-Inlämning
+*Vilket kommando behöver jag använda i terminalen/kommandoprompten för att klona ditt repository till min dator?*
